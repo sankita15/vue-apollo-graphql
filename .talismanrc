@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/assets/logo.png
+  checksum: 16c79d1bae835fa14c1e75760138df0b87ea9a5101475e6888c943bdf50625d2
+- filename: yarn.lock
+  checksum: c2d1fa9d172db0d644724001637d71f8332ebd7418a4c8b96e17e166dc22ff23
+version: ""
